@@ -67,12 +67,12 @@ nav a:hover {
 
 .questions {
   top: 240px;
+  position: relative;
 }
 
 .question {
   margin: 120px auto;
   text-align: center;
-  position: relative;
 }
 
 .question h4 {
