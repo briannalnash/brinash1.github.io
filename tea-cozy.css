@@ -5,6 +5,7 @@ body {
   font-size: 22px;
   opacity: 0.9;
   text-align: center;
+  margin: 0;
 }
 
 h2, h3, h4, h5 {
